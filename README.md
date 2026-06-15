@@ -41,19 +41,6 @@ The containment cup is defined by a floor and a surrounding wall architecture fe
 
 **The Dual-Axis Interface:** The two straight edges of the quarter-circle floor form a right angle on the horizontal plane, while the wall rising from those edges forms a right angle on the vertical plane.
 
-```
-           Vertical Wall
-               |
-               | 
-               |  /|
-               | / |  <-- Fabricated Containment Cup
-               |/  |
-    ___________|___|___________
-         Container Floor
-     
-   [Fig 1: Cross-Sectional View of the Perpendicular 90-Degree Interface
-    Fitting Flush Into a Cylinder Corner]
-```
 
 ### B. Method of Operation
 
