@@ -1,4 +1,18 @@
-Technical Disclosure DocumentTitleVolumetric Measuring Scoop Featuring Perpendicular Wall-to-Floor Junction for Complete Product Recovery from Cylindrical ContainersInventorPublic Domain DisclosureDate of PublicationJune 15, 20261. AbstractThis disclosure describes a volumetric measuring scoop engineered to eliminate product waste and dead zones within cylindrical or flat-bottomed containers. Unlike conventional injection-molded scoops that feature rounded, hemispherical, or spherical-tangent bottom bowls, the disclosed scoop features a containment cup with a geometric profile that optimizes a strict $90^\circ$ perpendicular interface between its horizontal bottom floor and its vertical exterior side wall. This dual-surface contact profile allows one flat face of the scoop to slide completely flush along the container's bottom floor while an adjacent flat face simultaneously presses flush against the container’s vertical circular wall. By moving this right-angle corner interface along the interior circumference, a user can mechanically plow, sweep, and recover 100% of fine or granulated particulate matter (such as infant formula, protein isolates, or chemical powders) from the bottom perimeter rim of a receptacle.2. Technical Field and Problem DescriptionIn consumer packaging, fine materials are frequently distributed in cylindrical plastic tubs or metal canisters featuring a flat horizontal floor meeting a vertical, circular side wall. Standard volumetric scoops provided within these packages are universally manufactured with rounded, convex, or radiused bottom profiles to ease machine ejection during plastic injection molding.When a conventional rounded scoop enters the lower corner junction of a cylindrical container, the curved profile of the scoop creates a geometric mismatch. The scoop rides up the curved wall or pivots over the floor, leaving an inaccessible ring of compressed particulate matter along the interior circumference. For premium or high-cost powders—such as infant formula, pharmaceuticals, or nutritional supplements—this architectural mismatch results in continuous cumulative material waste and consumer frustration.3. Detailed Description of the Invention and GeometryThe invention comprises a handle attached to a specialized containment cup. The structural novelty lies entirely in the specific geometric profile of the containment cup's scraping boundary, ensuring multi-surface contact with a cylinder's walls and floor.A. The Scoop Cup Geometry and Wall VariationsThe containment cup is defined by an external flat floor and a surrounding wall architecture featuring these critical geometric constraints:The $90^\circ$ Perpendicular Profile (The Primary Mechanical Key): At least one vertical exterior side wall of the scoop cup and the external bottom floor of the scoop cup meet at a precise, crisp, non-radiused $90^\circ$ perpendicular angle. This forms a sharp, linear right-angle plowing edge along the base intersection of the cup.The Dual-Axis Interface: This perpendicular profile ensures that during operation, the bottom floor of the scoop maintains continuous surface-to-surface contact with the container floor, while the intersecting vertical wall maintains continuous surface-to-surface contact with the vertical interior wall of the container.Wall Configuration Permutations: The volume of the containment cup can be enclosed by various wall configurations, provided the key right-angle profile interface is preserved:The 3-Wall Embodiment (Segment/Wedge Profile): The containment cup is defined by a flat base floor, two straight flat side walls meeting at a right angle on the horizontal plane, and a third curved front wall (resembling a quarter-circle quadrant).The 4-Wall Embodiment (Square/Rectangular Profile): The containment cup is defined by a flat rectangular or square base floor surrounded by four vertical straight walls, where the boundary edge forms a straight $90^\circ$ corner tool.                  Vertical Side Wall of Scoop
+# Technical Disclosure Document
+
+## Title
+Volumetric Measuring Scoop Featuring Perpendicular Wall-to-Floor Junction for Complete Product Recovery from Cylindrical Containers
+
+## Inventor
+Public Domain Disclosure
+
+---
+
+## A. Design Overview
+
+### Cross-Sectional View
+
+```
                              |
                              |  __
                              | |  |
@@ -8,8 +22,21 @@ _____________________________|____________________
 Container Bottom Floor       ^
                              |
                 Crisp 90-Degree Scraping Corner
-     
-   [Fig 1: Side Cross-Sectional View showing the Right-Angle Corner 
-    fitting perfectly flush against both the vertical wall and flat base 
-    of a cylindrical container.]
-B. Method of OperationWhen inserted into a cylindrical container, the scoop is manipulated so that its flat bottom floor sits flush against the container’s bottom floor, while its straight vertical scraping wall sits flush against the container’s inner vertical wall.As the user sweeps the scoop in a circular motion along the interior perimeter of the container, the sharp $90^\circ$ edge acts as a continuous plow or squeegee. Because the geometry matches the container's interior coordinate lines perfectly, the scoop sweeps the corner entirely clean, forcing 100% of the trapped powder into the open mouth of the scoop cup.4. Alternative Embodiments (Defensive Multi-Mapping)To prevent competitors from escaping this disclosure via trivial modifications, the following structural variations are explicitly claimed as part of this prior art disclosure:Varying Base and Wall Profiles: The containment cup may be molded or fabricated as a cube, rectangular prism, triangular wedge, cylinder slice, or irregular polygon, provided that the outer profile maintains a sharp $90^\circ$ intersection between the bottom horizontal face and at least one vertical face to match a cylinder's floor-to-wall intersection.Handle Placements: The handle may extend horizontally from the upper rim of any vertical wall, extend vertically upward from the center of the cup, or be integrated into the side wall as a molded grip, thumb-rest, or finger tab.Material Composition: The scoop may be manufactured out of rigid food-grade plastics (such as Polypropylene, Polyethylene, or PETG), stamped or machined metals (such as stainless steel or aluminum), or flexible elastomers/silicones that deform under light pressure to adapt to minor variations in a container’s internal radius.5. Legally Binding Prior Art ClaimThis document establishes that the concept, math, geometry, and application of a volumetric scoop featuring a perpendicular $90^\circ$ wall-to-floor interface designed specifically to clear the internal perimeter corner of a cylindrical receptacle is public knowledge. Any subsequent patent applications claiming a measuring device that utilizes an adjacent horizontal-to-vertical flat profile to clear particulate matter from container corners should be rejected for lack of novelty and obviousness based on this public disclosure.
+```
+
+**Figure 1:** Side Cross-Sectional View showing the Right-Angle Corner fitting perfectly flush against both the vertical wall and flat base of a cylindrical container.
+
+---
+
+## B. Method of Operation
+
+When inserted into a cylindrical container, the scoop is manipulated so that its flat bottom floor sits flush against the container's bottom floor, while its straight vertical wall maintains contact with the cylindrical container wall. This perpendicular junction configuration enables complete product recovery from the container, eliminating dead space that would otherwise remain inaccessible with conventional scoops.
+
+---
+
+## Key Features
+
+- **Perpendicular Wall-to-Floor Junction:** Achieves a crisp 90-degree angle for maximum contact
+- **Complete Recovery:** Eliminates dead space in cylindrical containers
+- **Flush Design:** Flat bottom and vertical wall alignment
+- **Volumetric Measurement:** Consistent capacity for measuring applications
