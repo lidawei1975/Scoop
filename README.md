@@ -15,7 +15,7 @@ June 15, 2026
 
 ### Purpose and Innovation
 
-This technical disclosure presents an innovative design for a volumetric measuring scoop specifically engineered to maximize product recovery from cylindrical containers. The key innovation lies in the perpendicular wall-to-floor junction, which creates a crisp 90-degree angle that enables complete contact with both the vertical wall and horizontal floor of a cylindrical container.
+This technical disclosure presents an innovative design for a volumetric measuring scoop specifically engineered to maximize product recovery from cylindrical containers. The key innovation lies in its geometrically precise perpendicular wall-to-floor junction that eliminates dead space traditionally found in cylindrical container bottoms.
 
 Traditional scoops suffer from design limitations that result in dead space and incomplete product recovery. This scoop design eliminates those inefficiencies through its geometric precision.
 
@@ -50,7 +50,7 @@ The scoop design incorporates the following critical geometric features:
 
 ### Insertion and Positioning
 
-When inserted into a cylindrical container, the scoop is manipulated so that its flat bottom floor sits flush against the container's bottom floor, while its straight vertical wall maintains contact with the cylindrical container wall. The operator carefully positions the scoop to ensure maximum contact on both surfaces.
+When inserted into a cylindrical container, the scoop is manipulated so that its flat bottom floor sits flush against the container's bottom floor, while its straight vertical wall maintains contact with the container's curved interior surface.
 
 ### Product Recovery Process
 
@@ -116,12 +116,22 @@ This scoop design is particularly valuable for:
 
 ## F. Patent and Disclosure Status
 
-This technical disclosure is released to the **Public Domain** and is available for free use, modification, and commercialization by any individual or organization without restriction or licensing requirements.
+This technical disclosure is released to the **Public Domain** and is available for free use, modification, and commercialization by any individual or organization without restriction or licensing fees.
 
 ---
 
 ## G. Conclusion
 
-The perpendicular wall-to-floor junction scoop represents a significant improvement in product recovery efficiency from cylindrical containers. By addressing the geometric limitations of conventional scoop designs, this innovation provides complete product recovery, consistent volumetric measurement, and operational efficiency gains across multiple industries and applications.
+The perpendicular wall-to-floor junction scoop represents a significant improvement in product recovery efficiency from cylindrical containers. By addressing the geometric limitations of conventional round scoops, this design delivers practical value across multiple industries.
 
 The simplicity of the design ensures ease of manufacturing while the geometric precision delivers measurable performance improvements over existing solutions.
+
+---
+
+## Why I am Sharing This
+
+Twenty years ago, as a parent dealing with expensive infant formula, I was deeply frustrated by a universal design flaw: standard round scoops leave a persistent, wasteful ring of costly powder permanently trapped in the bottom corners of cylindrical tubs. Now, two decades later, seeing that consumer packaging still hasn't fixed this simple issue, I am publishing this geometry to the public domain.
+
+My sole purpose: I want to ensure that this common-sense, cylinder-matching design remains completely free and accessible. My goal is to create permanent "prior art" so that no corporation can ever patent this exact geometry to monopolize it or profit off a solution that should be a basic consumer standard.
+
+A quick note on prior art: I am an independent citizen and a hobbyist, not a patent attorney. If a similar design or patent already exists in some hidden corner of industrial manufacturing, I sincerely apologize for the oversight—it was not my intention to duplicate existing work, but rather to ensure this specific engineering logic is explicitly open-sourced for everyday people and DIY builders.
